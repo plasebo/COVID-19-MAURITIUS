@@ -1,4 +1,4 @@
-# vue-covid
+# Covid-19-Mauritius
 
 ## Project setup
 ```
@@ -19,6 +19,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Data Resource
-See [mathdroid/covid19](https://covid19.mathdro.id).
