@@ -2,7 +2,6 @@
   <div class="rel">
     <content-loader :is-loading="isLoading" @refresh-data="renderDataChart">
       <template v-slot:content>
-        <h5 class="abs d-sm-none d-md-block">For Mauritius</h5>
         <div class="row">
           <div class="col-md-6 rel">
             <div class="row">

@@ -31,8 +31,8 @@
     .page-footer {
         padding: 2rem;
         text-align: center;
-        background:   url('~@/assets/mns.png') 98% 50% no-repeat, url('~@/assets/moris.png') 20px 50% no-repeat, url('~@/assets/footer.jpg') center center no-repeat;
-        background-size: 200px auto, auto 75%, cover;
+        background:   url('~@/assets/moris.png') 20px 50% no-repeat, url('~@/assets/footer.jpg') center center no-repeat;
+        background-size: auto 75%, cover;
         color: #fff;
         margin: 0 -15px;
         text-shadow: 1px 1px 2px rgba(0,0,0,0.4);
