@@ -2,7 +2,7 @@
   <div class="rel">
     <content-loader :is-loading="isLoading" @refresh-data="renderDataTrendDaily">
       <template v-slot:content>
-        <h5 class="abs">For Mauritius</h5>
+        <h5 class="abs d-sm-none d-md-block">For Mauritius</h5>
         <div class="row">
           <div class="col-md-12 rel">
           <trend :data="trendData" class="trend"
@@ -164,7 +164,6 @@ export default {
 <style scoped>
   .echarts {
     width: 100%;
-    min-width: 480px;
     height: 480px;
   }
   .rel {

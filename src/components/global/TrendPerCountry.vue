@@ -10,7 +10,7 @@
     </div>
     <content-loader :is-loading="isLoading" @refresh-data="fetchCountryData">
       <template v-slot:content>
-        <h5 class="abs">For country {{countryCodeSelected}}</h5>
+        <h5 class="abs d-sm-none d-md-block">For {{countryCodeSelected}}</h5>
         <div class="row">
           <div class="col-md-6 rel">
             <div class="row">

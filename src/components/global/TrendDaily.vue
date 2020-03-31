@@ -161,7 +161,6 @@ export default {
 <style scoped>
   .echarts {
     width: 100%;
-    min-width: 480px;
     height: 480px;
   }
   .rel {
