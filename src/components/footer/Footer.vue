@@ -1,6 +1,6 @@
 <template>
     <footer class="page-footer">
-        <span>Copyright {{year}}. Powered by <a href="https://mns.mu/" target="_blank">Mauritis Network Services Ltd.</a><br />
+        <span>Copyright {{year}}. Powered by <a href="https://mns.mu/" target="_blank">Mauritius Network Services Ltd.</a><br />
         Developed and designed by Shane Permalloo.<br />
         COVID-19 live tracker delivered by <a href="https://github.com/mathdroid" target="_blank">mathdroid</a> 
         and <a href="https://github.com/novelcovid/api" target="_blank">NovelCovid</a><br />
